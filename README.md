@@ -1,7 +1,7 @@
 # Scratch Coding Practice 101
 
 ## Project 3 of 10 — Travel Agency Page
-Link: []()
+Link: [https://sharmaankita3387.github.io/fccHTMLWebsitePractice03/](https://sharmaankita3387.github.io/fccHTMLWebsitePractice03/)
 
 This repository contains **Project 3** in my coding practice series, focused on building a structured travel-themed webpage using HTML.
 
